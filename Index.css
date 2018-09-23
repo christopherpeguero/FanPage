@@ -1,5 +1,5 @@
 body{
-    background-color:#494949;
+    background-color:#626D71;
     }
 .row{   
     display:flex;
@@ -10,20 +10,23 @@ body{
 .headshot{
     width:10%;
     border-radius:100%;
-   
-
 }
 
 .footer{
     display:flex;
     justify-content:space-around;
-    background-color:#202020;
-    color:purple;
+    color:black;
     font-size:20px;
-    
+
     }
+#Name{
+    font-size:30px;
+    font-weight:bold;
+}
+
+
 .mid{
-    background-color:#494949;
+    background-color:#CDCDC0;
     color:black;
     align-items:center;
     font-size:50px;
@@ -32,8 +35,11 @@ body{
 }
 .aboutme{
     display:flex;
-    justify-content:center;
-    
-    border:10px solid black;  
+    justify-content:space-around;
+    width:1500px;
+    padding:1px;
+   border:1px solid #021a40;
+   background-color:#92AAC4;
+   font-size:40px;
     
 }
