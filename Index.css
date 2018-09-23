@@ -1,0 +1,39 @@
+body{
+    background-color:#494949;
+    }
+.row{   
+    display:flex;
+    justify-content:space-between;
+    color:white;
+    font-size:20px;
+}
+.headshot{
+    width:10%;
+    border-radius:100%;
+   
+
+}
+
+.footer{
+    display:flex;
+    justify-content:space-around;
+    background-color:#202020;
+    color:purple;
+    font-size:20px;
+    
+    }
+.mid{
+    background-color:#494949;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    display:flex;
+    justify-content:center;
+    
+    border:10px solid black;  
+    
+}
