@@ -9,7 +9,16 @@ body{
     padding:20px;
     justify-content:space-around;
     color:black;
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Kreon', serif;
+    text-shadow: 1px 1px 1px  #EFE3E3;
+    font-size:35px;
+}
+a{
+    text-decoration:none;
+    color:black;
+    padding:3%;
+    text-shadow: 1px 1px 1px  #EFE3E3;
+    font-size:35px;
 }
 h2{
     color:black;
@@ -18,7 +27,21 @@ h2{
     width:300px;
 }
 p{
-    font-family: 'Permanent Marker';
-    padding:5%;
-    text-shadow: 1px 1px 1px #EFE3E3;
+    font-family: 'Kreon', serif;
+    padding:3%;
+    text-shadow: 1px 1px 1px  #EFE3E3;
+    font-size:35px;
+}
+.images{
+    display:flex;
+    flex-direction: row;
+    margin:50px;
+    width:256px;
+    height:256px;
+    border:solid black 10px;
+}
+#thediv{
+    display:flex;
+    justify-content:space-around;
+    flex-direction: row;
 }
